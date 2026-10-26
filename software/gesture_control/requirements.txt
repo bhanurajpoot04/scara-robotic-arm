@@ -1,0 +1,3 @@
+opencv-python
+mediapipe>=0.10,<0.11   # scaracv.py uses the legacy mp.solutions.hands API; exact tested version not recorded
+pyserial
